@@ -27,7 +27,7 @@ This application is perfect for:
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/fagantron/yt-library.git
+   git clone https://github.com/Fagan95/yt-library.git
    cd yt-library
    ```
 2. Install the dependencies:
