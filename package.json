@@ -1,0 +1,12 @@
+{
+  "name": "yt-library",
+  "version": "1.0.0",
+  "description": "A file browser web app with video files and descriptions.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
