@@ -4,6 +4,8 @@ A helper tool for yt-dlp.
 ## Overview
 yt-library is a lightweight web application designed to simplify the process of browsing video files along with their associated description files. The app features a clean, responsive interface that displays video files in a scrollable list and automatically shows the corresponding description (if available) in a sticky panel. It supports multiple video formats and allows you to switch directories on the fly. This application and much of this readme file were created with generative AI.
 
+![A screenshot of yt-library in action](screenshot.png)
+
 ## Who It's For
 This application is perfect for:
 - Video Enthusiasts & Content Managers: Quickly view the detailed descriptions (if available) of the corresponding YouTube videos downloaded with yt-dlp.
